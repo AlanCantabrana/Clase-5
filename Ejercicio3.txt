@@ -1,0 +1,13 @@
+INICIO
+    Leer Nombre
+    Leer Contraseña
+    Const N
+    Const C
+
+    SI Nombre==N AND Contraseña=C
+        Escribir "Provecho"
+    SINO
+        Escribir "Intente de nuevo"
+    FIN-SI
+    
+FIN

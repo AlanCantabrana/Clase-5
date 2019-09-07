@@ -1,0 +1,11 @@
+INICIO
+    Leer Nivel
+    SI Nivel >= 10 ENTONCES
+        SI Nivel>=20 ENTONCES
+            Escribir "Eres ninja"
+        SINO
+            Escribir "Eres Acróbata"
+    SINO 
+        Escribir "Eres Aprendiz"
+    FIN-SI                    
+FIN

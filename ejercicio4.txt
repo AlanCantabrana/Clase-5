@@ -1,0 +1,15 @@
+INICIO
+    Leer examen1
+    Leer examen2
+    Leer examen3
+
+    Promedio=(examen1+examen2+examen3)/3
+
+    SI Promedio<8.5
+        SI Promedio<6.0
+            Escribir "Reprobaste el semestre, te van a castigar"
+    SINO
+        Escribir "Felicidades, recibirás un premio"
+    FIN-SI            
+
+FIN

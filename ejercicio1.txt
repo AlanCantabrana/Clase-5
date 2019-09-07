@@ -1,0 +1,10 @@
+INICIO
+    Leer Apetito
+
+    SI Apetito=="Hambre" ENTONCES
+        Escribre "Estás triste"
+    SINO
+        Escribre "Estás feliz"
+    FIN-SI        
+
+FIN

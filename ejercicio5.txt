@@ -1,0 +1,20 @@
+INICO
+    Leer Dia
+
+    SI Dia=="Lunes" OR Dia=="Miercoles"
+        Escribir "Hoy tienes clase de Historia"
+    FIN-SI
+
+    SI Dia=="Martes"
+        Escribir "Hoy tienes clase de Natacion"
+    FIN-SI
+
+    SI Dia=="Jueves"
+        Escribir "Hoy tienes clase de esgrima"
+    FIN-SI
+
+    SI DIA!="Lunes" OR DIA!="Martes" OR DIA!="Miercoles" OR DIA!="Jueves"
+        Escribir "Hoy no tienes clases, descansas"
+    FIN-SI          
+
+FIN

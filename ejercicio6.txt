@@ -1,0 +1,12 @@
+INICIO
+    Leer shot1
+    Leer shot2
+    Leer shot3
+
+    SI shot1==shot2 OR shot1==shot3 OR shot2==shot3
+        Escribir "Felicidades has ganado el juego"
+    SINO
+        Escribir "Sigue participando"
+    FIN-SI        
+
+FIN

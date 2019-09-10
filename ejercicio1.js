@@ -1,4 +1,4 @@
-const Apetito="Lleno"
+let Apetito=process.argv[2];
 if (Apetito=="Hambre"){
     console.log("Estás triste")
 }else{
